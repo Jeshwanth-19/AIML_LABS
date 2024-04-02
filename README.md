@@ -6,3 +6,5 @@
 
 [lab_03](https://github.com/Jeshwanth-19/AIML_LABS/blob/main/Lab03.ipynb)
 
+[lab_04](https://github.com/Jeshwanth-19/AIML_LABS/blob/main/Lab04.ipynb)
+
