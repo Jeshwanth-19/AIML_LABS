@@ -16,4 +16,4 @@
 
 [lab_08](https://github.com/Jeshwanth-19/AIML_LABS/blob/main/Lab_08.ipynb)
 
-[lab_09](
+[lab_09](https://github.com/Jeshwanth-19/AIML_LABS/blob/main/Lab_09.ipynb)
