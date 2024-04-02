@@ -10,3 +10,10 @@
 
 [lab_05](https://github.com/Jeshwanth-19/AIML_LABS/blob/main/Lab05.ipynb)
 
+[lab_06](https://github.com/Jeshwanth-19/AIML_LABS/blob/main/LAB06.ipynb)
+
+[lab_07](
+
+[lab_08](
+
+[lab_09](
