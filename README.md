@@ -12,7 +12,7 @@
 
 [lab_06](https://github.com/Jeshwanth-19/AIML_LABS/blob/main/LAB06.ipynb)
 
-[lab_07](
+[lab_07](https://github.com/Jeshwanth-19/AIML_LABS/blob/main/Lab_07.ipynb)
 
 [lab_08](
 
